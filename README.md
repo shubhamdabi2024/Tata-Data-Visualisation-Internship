@@ -3,8 +3,10 @@ Tata Data Visualisation: Empowering Business with Effective Insights
 **Data Visualization Intern | Tata**
 *Dec- 2024*
 
+
+
 *Responsibilities:*
-- Developed and maintained interactive dashboards and reports using Tableau.
+- Developed and maintained interactive dashboards and reports using Power BI.
 - Analyzed large datasets to extract meaningful insights and presented them visually to stakeholders.
 - Collaborated with cross-functional teams to understand requirements and deliver data-driven solutions.
 - Performed data cleaning and preprocessing tasks to ensure data accuracy and consistency.
@@ -15,6 +17,6 @@ Tata Data Visualisation: Empowering Business with Effective Insights
 - Received positive feedback from team members and supervisors for clear and effective data presentations.
 
 *Skills Gained:*
-- Proficiency in Tableau and Power BI.
+- Proficiency in Power BI.
 - Improved data analysis and interpretation skills.
 - Enhanced communication and teamwork abilities.
