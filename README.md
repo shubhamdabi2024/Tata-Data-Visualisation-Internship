@@ -3,6 +3,7 @@ Tata Data Visualisation: Empowering Business with Effective Insights
 **Data Visualization Intern | Tata**
 *Dec- 2024*
 
+- <a href= "https://github.com/shubhamdabi2024/Tata-Data-Visualisation-Internship/blob/main/TATA%20Forage%20Internship%20certificate.pdf">Internship Certificate</a>
 
 
 *Responsibilities:*
